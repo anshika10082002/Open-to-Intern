@@ -8,6 +8,7 @@ const  {isEmpty, isValidName,isValidMobile,isValidEmail} = validation
 //..............................Post Api For Internship Application ...........................................................
 
 const applyIntern= async function (req, res){
+   
     try{
         let details= req.body
         if(Object.keys(details).length==0){
