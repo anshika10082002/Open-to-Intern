@@ -1,12 +1,11 @@
 *Lithium*
 
-
 **Project Title-**
 ## Open to Intern 
 
 *This is a Nodejs using Express ,backend project where Interns can aplly for their internship.Used MongoDB for database and AWS S3 for file storage*
 
-### Models
+## Models
 - ## College Model
 ```yaml
 { 
@@ -53,9 +52,7 @@
 - Each member of each team should have their tests in running state
 
 
-Refer below sample
 
- ![A Postman collection and request sample](assets/Postman-collection-sample.png)
 
 ## Response
 
